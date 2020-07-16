@@ -1,0 +1,14 @@
+body{font-family: 'Montserrat', sans-serif;}
+
+#title{background-color: #ff4c68;}
+
+.container-fluid .row .test{padding: 50% 50%;}
+
+.navbar {padding-bottom: 10%;}
+
+.navbar-brand{font-family:'ubuntu';
+    font-size: 3rem;}
+
+h1{font-family: 'Montserrat', sans-serif;
+font-size: 3rem;
+line-height: 1.5;}
